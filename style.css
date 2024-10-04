@@ -1,0 +1,21 @@
+/* .heading-class {
+          color: red;
+          background-color: yellow;
+} */
+/* 
+#box{
+          height: 250px;
+          width: 100px;
+          background-color: yellow;
+          color: rgb(3, 19, 34);
+          border: 1px solid black; */
+/* } */
+.dark {
+          background-color: black;
+          color: white;
+}
+
+.light {
+          background-color: white;
+          color: black;
+}
